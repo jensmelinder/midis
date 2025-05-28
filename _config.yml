@@ -11,7 +11,7 @@ title: MIDIS data release
 description: Data releases fromn the MIDIS (the MIRI EC-GTO team High-z survey)
 
 # protocol & hostname for your site (it does not end with a '/')
-#url: https://cgoldberg.github.io
+url: https://jensmelinder.github.io/midis
 
 author:
   name: Jens Melinder
